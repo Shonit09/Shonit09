@@ -4,7 +4,7 @@
 ## I am an aspiring full-stack developer
 </div>
 
-# <img src="assets/dev.png" width="30" height="30"/> Learning and Working with 
+# Learning and Working with 
 
 <p float="left">
 <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="60" height="60">
