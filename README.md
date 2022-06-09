@@ -2,10 +2,9 @@
   
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"> Hey there, I am Shonit 
 ## I am an aspiring full-stack developer
-</div>
-<div align="center">
+
 # Learning and Working with 
-</div>
+
 <p float="left">
 <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="40" height="40">
 <img src="https://cdn.iconscout.com/icon/free/png-512/css3-9-1175237.png" width="40" height="40"> 
@@ -20,3 +19,4 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40">
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="40" height="40"> 
 </p>
+</div>
