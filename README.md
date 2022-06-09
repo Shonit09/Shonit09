@@ -19,3 +19,11 @@
 <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" width="40" height="40"> 
 </p>
 </div>
+
+## <img src="https://www.iconpacks.net/icons/2/free-handshake-icon-3312-thumb.png" width="30" height="30"> Connect With Me 
+<div align="center">
+<a href="https://github.com/Shonit09" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/SahooShonit" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/shonit-sahoo-37a09a224/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/_shonit.1809_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%FF69B4.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=cd486b" /></a>
+</div>
