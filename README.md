@@ -1,7 +1,8 @@
 <div align="center">
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"> Hey there, I am Shonit 
-## I am an aspiring full-stack developer
+  # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"> Hey there, I am Shonit 
+  ## I am an aspiring full-stack developer
 </div>
+
 # Learning and Working with 
 <p float="left">
 <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="40" height="40">
