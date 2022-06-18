@@ -5,6 +5,7 @@
   
  </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shonit09&label=Profile%20views&color=0e75b6&style=flat" alt="shonit09" /> </p>
 # Learning and Working with 
 <p float="left">
 <img src="https://icon-library.com/images/html5-icon/html5-icon-13.jpg" width="40" height="40">
