@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey there, I am Shonit <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"> 
-## I am an aspiring full-stack developer
+## I am a full-stack developer
   
  </div>
 
